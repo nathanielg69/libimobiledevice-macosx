@@ -1,0 +1,3 @@
+#!/bin/bash
+path=$1
+cp $path ~/Library/MobileDevice/Provisioning\ Profiles/
